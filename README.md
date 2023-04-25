@@ -7,7 +7,7 @@ Description: Delani Studio Portfolio website implementation using CSS, Bootstrap
 
 Web application setup: To view the app, open the Github Pages link provided below on the README. Here is a run through of how to set up the application
 
-Clone this repository using git clone or downloading a ZIP file of the code. The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened Open the index.html file to view the application on your preferred web browser
+Clone this repository using git clone https://github.com/lucyzighe/LUCY-A-3.git or downloading a ZIP file of the code. The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened Open the index.html file to view the application on your preferred web browser
 
 Technologies Used: HTML JQuery CSS Bootstrap
 
