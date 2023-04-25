@@ -11,7 +11,7 @@ Clone this repository using git clone or downloading a ZIP file of the code. The
 
 Technologies Used: HTML JQuery CSS Bootstrap
 
-Support and contact details: You can provide feedback or raise any issues/ bugs through samuel.odhiambo01@student.moringaschool.com
+Support and contact details: You can provide feedback or raise any issues/ bugs through lucy.zighe@student.moringaschool.com
 
 Live Site: You can view the live site on GitHub Pages at
 
