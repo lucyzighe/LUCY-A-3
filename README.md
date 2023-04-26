@@ -13,7 +13,7 @@ Technologies Used: HTML JQuery CSS Bootstrap
 
 Support and contact details: You can provide feedback or raise any issues/ bugs through lucy.zighe@student.moringaschool.com
 
-Live Site: You can view the live site on GitHub Pages at
+Live Site: You can view the live site on GitHub Pages at:https://lucyzighe.github.io/LUCY-A-3/
 
 Copyright and License: This project is licensed under MIT.
 
